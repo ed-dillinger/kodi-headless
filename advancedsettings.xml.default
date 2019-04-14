@@ -2,6 +2,7 @@
   <videodatabase>
     <type></type>
     <host></host>
+    <name></name>
     <port></port>
     <user></user>
     <pass></pass>
@@ -9,6 +10,7 @@
   <musicdatabase>
     <type></type>
     <host></host>
+    <name></name>
     <port></port>
     <user></user>
     <pass></pass>
