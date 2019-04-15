@@ -2,7 +2,7 @@
   <videodatabase>
     <type></type>
     <host></host>
-    <name></name>
+    <name>kodivideo</name>
     <port></port>
     <user></user>
     <pass></pass>
@@ -10,7 +10,7 @@
   <musicdatabase>
     <type></type>
     <host></host>
-    <name></name>
+    <name>kodimusic</name>
     <port></port>
     <user></user>
     <pass></pass>
